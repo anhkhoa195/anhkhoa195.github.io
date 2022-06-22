@@ -1,12 +1,12 @@
 <template>
-  <div class="container">
-    <div class="form-login"></div>
+  <div>
+    <NuxtChild :foobar="123" />
   </div>
 </template>
 
 <script>
 export default {
-  name: 'LoginPage',
+  name: 'Services',
 };
 </script>
 

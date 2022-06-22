@@ -2,9 +2,9 @@
 
 <script>
 export default {
-  name: 'DefaultLayout',
-  data() {
-    return {};
-  },
+  name: 'EmptyLayout',
+  layout: 'error',
 };
 </script>
+
+<style></style>
