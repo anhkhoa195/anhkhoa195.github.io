@@ -1,6 +1,8 @@
 <template lang="html">
   <div class="container">
-    <div class="form-login">aaa</div>
+    <div class="form-login">
+      <BaseButton :titleBtn="titleButton" />
+    </div>
   </div>
 </template>
 

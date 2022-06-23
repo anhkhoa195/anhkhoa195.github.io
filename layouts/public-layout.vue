@@ -1,7 +1,9 @@
 <template>
-  <div class="public-layout">
-    <Nuxt />
-  </div>
+  <v-app>
+    <div class="public-layout">
+      <Nuxt />
+    </div>
+  </v-app>
 </template>
 
 <script>

@@ -1,0 +1,11 @@
+{
+  "lang": {
+    "en": "English",
+    "ja": "Japanese (日本語)"
+  },
+  "common": {
+    "btn": {
+      "login": "login"
+    }
+  }
+}
