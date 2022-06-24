@@ -4,6 +4,8 @@ export default {
   data() {
     return {
       titleButton: 'Login',
+      user_name: '',
+      password: '',
     };
   },
 };

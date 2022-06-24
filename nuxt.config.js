@@ -66,16 +66,15 @@ export default {
 
   i18n: {
     locales: ['en', 'ja'],
-    defaultLocale: 'en',
+    defaultLocale: 'ja',
     vueI18n: {
-      fallbackLocale: 'en',
+      fallbackLocale: 'ja',
       messages: {
         en,
         ja,
       },
     },
   },
-
   // Vuetify module configuration: https://go.nuxtjs.dev/config-vuetify
   vuetify: {
     customVariables: ['~/assets/variables.scss'],

@@ -6,6 +6,8 @@
   "common": {
     "btn": {
       "login": "login"
-    }
+    },
+    "user_name": "User Name",
+    "password": "Password"
   }
 }

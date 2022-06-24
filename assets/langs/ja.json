@@ -5,7 +5,9 @@
   },
   "common": {
     "btn": {
-      "login": "login"
-    }
+      "login": "ログインする"
+    },
+    "user_name": "ユーザー名",
+    "password": "パスワード"
   }
 }
