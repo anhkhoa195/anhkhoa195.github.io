@@ -1,7 +1,6 @@
 <template>
   <div class="form-admin">
-    aa
-    <NuxtChild />
+    <Nuxt />
   </div>
 </template>
 
@@ -14,7 +13,7 @@ export default {
 
 <style>
 .form-admin {
-  background-color: aquamarine;
+  /* background-color: aquamarine; */
   width: 100%;
   height: 100%;
   padding: 20px;
