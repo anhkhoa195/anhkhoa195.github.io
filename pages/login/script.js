@@ -1,4 +1,4 @@
 export default {
-  name: 'LoginPage',
-  layout: 'public-layout',
+  name: "LoginPage",
+  layout: "public-layout",
 };
